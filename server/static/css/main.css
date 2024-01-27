@@ -109,6 +109,7 @@
 .flex{display:flex;}
 .flex-1{flex:1 1 0%;}
 .flex-col{flex-direction:column;}
+.table{display:table;}
 .items-center{align-items:center;}
 .justify-center{justify-content:center;}
 .gap4{gap:1rem;}
@@ -122,3 +123,4 @@
 .text-sm{font-size:0.875rem;line-height:1.25rem;}
 .text-red-6{--un-text-opacity:1;color:rgb(220 38 38 / var(--un-text-opacity));}
 .font-sans{font-family:"Ubuntu",ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";}
+.filter{filter:var(--un-blur) var(--un-brightness) var(--un-contrast) var(--un-drop-shadow) var(--un-grayscale) var(--un-hue-rotate) var(--un-invert) var(--un-saturate) var(--un-sepia);}
